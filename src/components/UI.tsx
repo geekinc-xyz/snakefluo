@@ -109,7 +109,7 @@ export function UI() {
               </button>
 
               <div className="text-[10px] text-white/30 font-mono uppercase tracking-widest text-center mt-2">
-                Created by GEEK Inc. • Open Source
+                Created by GEEK FACTORY • Open Source Project
               </div>
             </div>
           </motion.div>
@@ -119,7 +119,7 @@ export function UI() {
       {/* Footer Credit */}
       <div className="absolute bottom-4 left-4 pointer-events-none opacity-40">
         <div className="text-[10px] text-white font-mono uppercase tracking-[0.2em]">
-          Created by GEEK Inc. // Open Source Project
+          Created by GEEK FACTORY // Open Source Project
         </div>
       </div>
     </div>
